@@ -14,7 +14,7 @@ It covers:
            Drone flight dynamics: https://www.youtube.com/watch?v=C0KBu2ihp-s&t=4s  
            PID control tuning for self balancing robots: https://www.youtube.com/watch?v=uyHdyF0_BFo  
            Inverted pendulum on a cart demostartion: https://www.youtube.com/watch?v=AuAZ5zOP0yQ  
-           Control system design for autonomous cars: https://www.youtube.com/watch?v=pSxaOWiIyCU
-           Adaptive cruise control: https://www.youtube.com/watch?v=8pMzaatc3Eg  
-           Adaptive Cruise Control Project Using MATLAB and Arduino Uno Board: https://www.youtube.com/watch?v=LEmP7HJF_OE
-           Introduction to fuzzy logic: https://www.youtube.com/watch?v=rln_kZbYaWc  
+           Control system design for autonomous cars: https://www.youtube.com/watch?v=pSxaOWiIyCU  
+           Adaptive cruise control: https://www.youtube.com/watch?v=8pMzaatc3Eg    
+           Adaptive Cruise Control Project Using MATLAB and Arduino Uno Board: https://www.youtube.com/watch?v=LEmP7HJF_OE  
+           Introduction to fuzzy logic: https://www.youtube.com/watch?v=rln_kZbYaWc    
