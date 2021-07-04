@@ -51,7 +51,7 @@ It covers:
            
            The state space representation of a system is given by two equations :  
            q(t)=Aq(t) + Bu(t)  
-           y(t)=Cq(t) + Du(t)  
+           y(t)=Cq(t) + Du(t)    
            
            
            The first equation is called the state equation, the second equation is called the output equation.  
