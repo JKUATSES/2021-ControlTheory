@@ -8,6 +8,7 @@ It covers:
            5) Drone control (example)  
            6) Self balancing robot (example)  
            7) adaptive cruise control (example)  
+           
            # Summary  
            A control system can be defined as a system which controls other systems. Examples of control systems in your day-to-day 
            life include an air conditioner, a refrigerator, an air conditioner, a bathroom toilet tank, an automatic iron, and 
