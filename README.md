@@ -7,7 +7,7 @@ It covers:
            4)State Space represenation   
            5) Drone control (example)  
            6) Self balancing robot (example)  
-           5) adaptive cruise control (example)  
+           7) adaptive cruise control (example)  
           
  Resources:  
            Types of contro systems: https://www.electrical4u.com/control-system-closed-loop-open-loop-control-system/  
