@@ -1,7 +1,6 @@
 # 2021-ControlTheory
 This is Control theory for ses projects weekly meetings during the academic year 2021-20221  
-It covers:  
-1) Introduction into control systems  
+It covers:  1) Introduction into control systems  
            2) Types of control systems  
            3) PID control  
            4)State Space represenation  
