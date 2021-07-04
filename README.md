@@ -6,7 +6,7 @@ It covers:
            3) PID control  
            4)State Space represenation  
           
- #Resources:  
+ # Resources:  
            Types of contro systems: https://www.electrical4u.com/control-system-closed-loop-open-loop-control-system/  
            Introduction to control systems: https://www.tutorialspoint.com/control_systems/control_systems_introduction.htm  
            State space represenbtation and controllability: https://www.vssut.ac.in/lecture_notes/lecture1450172554.pdf  
