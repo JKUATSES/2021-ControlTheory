@@ -13,4 +13,4 @@ It covers:
            Thrust vector control for rockets using PID: https://www.youtube.com/watch?v=4cw9K9yuIyU  
            Drone flight dynamics: https://www.youtube.com/watch?v=C0KBu2ihp-s&t=4s  
            PID control tuning for self balancing robots: https://www.youtube.com/watch?v=uyHdyF0_BFo  
-           Iverted pendulum on a cart demostartion: https://www.youtube.com/watch?v=AuAZ5zOP0yQ  
+           Inverted pendulum on a cart demostartion: https://www.youtube.com/watch?v=AuAZ5zOP0yQ  
