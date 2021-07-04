@@ -14,3 +14,4 @@ It covers:
            Drone flight dynamics: https://www.youtube.com/watch?v=C0KBu2ihp-s&t=4s  
            PID control tuning for self balancing robots: https://www.youtube.com/watch?v=uyHdyF0_BFo  
            Inverted pendulum on a cart demostartion: https://www.youtube.com/watch?v=AuAZ5zOP0yQ  
+           Introduction to fuzzy logic: https://www.youtube.com/watch?v=rln_kZbYaWc
