@@ -4,7 +4,7 @@ It covers:
            1) Introduction into control systems  
            2) Types of control systems  
            3) PID control  
-           4)State Space represenation 
+           4)State Space represenation   
            5) Drone control (example)  
            6) Self balancing robot (example)  
            5) adaptive cruise control (example)  
